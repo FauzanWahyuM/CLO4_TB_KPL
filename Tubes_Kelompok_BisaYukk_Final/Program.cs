@@ -184,16 +184,16 @@ namespace Tubes_Kelompok_BisaYukk
                 switch (pilihan)
                 {
                     case "1":
-                        console.WriteLine("[TampilkanSemuaTugas()]");
+                        TampilkanSemuaTugas();
                         break;
                     case "2":
-                        console.WriteLine("[TambahTugas()]");
+                        TambahTugas();
                         break;
                     case "3":
-                        console.WriteLine("[HapusTugas()]");
+                        HapusTugas();
                         break;
                     case "4":
-                        console.WriteLine("[TampilkanHistoryTugasSelesai()]");
+                        TampilkanHistoryTugasSelesai();
                         break;
                     case "5":
                         keluar = true;
