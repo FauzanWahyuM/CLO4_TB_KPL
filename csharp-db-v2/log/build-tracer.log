@@ -1,0 +1,64 @@
+[T 14:44:39 11776] Initializing tracer.
+[T 14:44:39 11776] Initializing tags.
+[T 14:44:40 11776] CodeQL CLI version 2.21.4
+[T 14:44:40 11776] Initializing tracer.
+[T 14:44:40 11776] Initializing tags.
+[T 14:44:40 11776] Allocated ID 2B346E5800002E00_0000000000000001 (parent )
+[T 14:44:40 11776] ==== Candidate to intercept: C:\Program Files\codeql\tools\win64\runner.exe (28952) ====
+[T 14:44:40 11776] Executing the following tracer actions:
+[T 14:44:40 11776] Tracer actions:
+[T 14:44:40 11776] pre_invocations(0)
+[T 14:44:40 11776] post_invocations(0)
+[T 14:44:40 11776] trace_languages(1): [csharp]
+[T 14:44:40 28952] Initializing tracer.
+[T 14:44:40 28952] Initializing tags.
+[T 14:44:40 28952] ID set to 2B346E5800002E00_0000000000000001 (parent root)
+[T 14:44:40 28952] Allocated ID F19BC0F000007118_0000000000000001 (parent 2B346E5800002E00_0000000000000001)
+[T 14:44:40 28952] ==== Candidate to intercept: C:\Windows\System32\cmd.exe (18552) ====
+[T 14:44:40 28952] Executing the following tracer actions:
+[T 14:44:40 28952] Tracer actions:
+[T 14:44:40 28952] pre_invocations(0)
+[T 14:44:40 28952] post_invocations(0)
+[T 14:44:40 28952] trace_languages(1): [csharp]
+[T 14:44:40 18552] Initializing tracer.
+[T 14:44:40 18552] Initializing tags.
+[T 14:44:40 18552] ID set to F19BC0F000007118_0000000000000001 (parent 2B346E5800002E00_0000000000000001)
+[T 14:44:40 18552] Allocated ID D16188BB00004878_0000000000000001 (parent F19BC0F000007118_0000000000000001)
+[T 14:44:40 18552] ==== Candidate to intercept: C:\Program Files\dotnet\dotnet.exe (10508) ====
+[T 14:44:40 18552] Lua: Execute a .NET SDK command usage detected
+[T 14:44:40 18552] Lua: Dotnet subcommand detected: build
+[T 14:44:40 18552] Lua: === Intercepted call to c:\program files\dotnet\dotnet.exe ===
+[T 14:44:40 18552] Executing the following tracer actions:
+[T 14:44:40 18552] Tracer actions:
+[T 14:44:40 18552] pre_invocations(0)
+[T 14:44:40 18552] replacing compiler with:
+[T 14:44:40 18552] invocation: c:\program files\dotnet\dotnet.exe, args: build -p:UseSharedCompilation=false -p:EmitCompilerGeneratedFiles=true
+[T 14:44:40 18552] post_invocations(0)
+[T 14:44:40 18552] trace_languages(1): [csharp]
+[T 14:44:40 23572] Initializing tracer.
+[T 14:44:40 23572] Initializing tags.
+[T 14:44:40 23572] ID set to D16188BB00004878_0000000000000001 (parent F19BC0F000007118_0000000000000001)
+[T 14:44:41 23572] Allocated ID 7625C8E000005C14_0000000000000001 (parent D16188BB00004878_0000000000000001)
+[T 14:44:41 23572] ==== Candidate to intercept: C:\Program Files\dotnet\dotnet.exe (12832) ====
+[T 14:44:41 23572] Lua: Execute a .NET application usage detected
+[T 14:44:41 23572] Lua: Dotnet path-to-application detected: C:\Program Files\dotnet\sdk\9.0.201\MSBuild.dll
+[T 14:44:41 23572] Executing the following tracer actions:
+[T 14:44:41 23572] Tracer actions:
+[T 14:44:41 23572] pre_invocations(0)
+[T 14:44:41 23572] post_invocations(0)
+[T 14:44:41 23572] trace_languages(1): [csharp]
+[T 14:44:41 23572] Allocated ID 982D9FA100005C14_0000000000000001 (parent D16188BB00004878_0000000000000001)
+[T 14:44:41 23572] ==== Candidate to intercept: C:\Program Files\dotnet\dotnet.exe (7568) ====
+[T 14:44:41 23572] Lua: Execute a .NET application usage detected
+[T 14:44:41 23572] Lua: Dotnet path-to-application detected: C:\Program Files\dotnet\sdk\9.0.201\MSBuild.dll
+[T 14:44:41 23572] Executing the following tracer actions:
+[T 14:44:41 23572] Tracer actions:
+[T 14:44:41 23572] pre_invocations(0)
+[T 14:44:41 23572] post_invocations(0)
+[T 14:44:41 23572] trace_languages(1): [csharp]
+[T 14:44:41 12832] Initializing tracer.
+[T 14:44:41 12832] Initializing tags.
+[T 14:44:41 12832] ID set to 7625C8E000005C14_0000000000000001 (parent D16188BB00004878_0000000000000001)
+[T 14:44:41 7568] Initializing tracer.
+[T 14:44:41 7568] Initializing tags.
+[T 14:44:41 7568] ID set to 982D9FA100005C14_0000000000000001 (parent D16188BB00004878_0000000000000001)

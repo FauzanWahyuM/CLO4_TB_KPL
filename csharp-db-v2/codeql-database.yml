@@ -1,0 +1,42 @@
+---
+sourceLocationPrefix: "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK\
+  \ SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final"
+baselineLinesOfCode: 1551
+unicodeNewlines: false
+columnKind: utf16
+primaryLanguage: csharp
+inProgress:
+  primaryLanguage: csharp
+  installedExtractors:
+    actions:
+     - C:/Program Files/codeql/actions
+    cpp:
+     - C:/Program Files/codeql/cpp
+    csharp:
+     - C:/Program Files/codeql/csharp
+    csv:
+     - C:/Program Files/codeql/csv
+    go:
+     - C:/Program Files/codeql/go
+    html:
+     - C:/Program Files/codeql/html
+    java:
+     - C:/Program Files/codeql/java
+    javascript:
+     - C:/Program Files/codeql/javascript
+    properties:
+     - C:/Program Files/codeql/properties
+    python:
+     - C:/Program Files/codeql/python
+    ruby:
+     - C:/Program Files/codeql/ruby
+    swift:
+     - C:/Program Files/codeql/swift
+    xml:
+     - C:/Program Files/codeql/xml
+    yaml:
+     - C:/Program Files/codeql/yaml
+creationMetadata:
+  cliVersion: 2.21.4
+  creationTime: 2025-06-11T14:44:39.860669700Z
+finalised: false
