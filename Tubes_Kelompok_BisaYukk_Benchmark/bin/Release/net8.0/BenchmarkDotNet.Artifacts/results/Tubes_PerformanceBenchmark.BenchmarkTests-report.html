@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>Tubes_PerformanceBenchmark.BenchmarkTests-20250506-184012</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; text-align: right; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet v0.14.0, Windows 11 (10.0.26100.3775)
+12th Gen Intel Core i5-12450HX, 1 CPU, 12 logical and 8 physical cores
+.NET SDK 9.0.201
+  [Host]     : .NET 8.0.14 (8.0.1425.11118), X64 RyuJIT AVX2 [AttachedDebugger]
+  Job-IEWSGG : .NET 8.0.14 (8.0.1425.11118), X64 RyuJIT AVX2
+</code></pre>
+<pre><code>InvocationCount=1  UnrollFactor=1  
+</code></pre>
+
+<table>
+<thead><tr><th>Method                 </th><th>Mean</th><th>Error</th><th>StdDev</th><th>Median</th><th>Allocated</th>
+</tr>
+</thead><tbody><tr><td>TambahTugas</td><td>3,113.5 ns</td><td>137.98 ns</td><td>382.33 ns</td><td>3,000.0 ns</td><td>640 B</td>
+</tr><tr><td>AmbilTugas</td><td>1,766.7 ns</td><td>129.15 ns</td><td>378.77 ns</td><td>1,700.0 ns</td><td>432 B</td>
+</tr><tr><td>AmbilTugasTaskNotFound</td><td>423.3 ns</td><td>32.72 ns</td><td>89.01 ns</td><td>400.0 ns</td><td>400 B</td>
+</tr><tr><td>CekTugasTersedia</td><td>651.6 ns</td><td>74.69 ns</td><td>214.31 ns</td><td>600.0 ns</td><td>400 B</td>
+</tr><tr><td>HapusTugas</td><td>1,513.0 ns</td><td>122.20 ns</td><td>360.32 ns</td><td>1,500.0 ns</td><td>432 B</td>
+</tr><tr><td>GetSemuaTugas</td><td>1,201.0 ns</td><td>49.14 ns</td><td>141.79 ns</td><td>1,200.0 ns</td><td>616 B</td>
+</tr><tr><td>TambahTugasUntukStatus</td><td>4,471.7 ns</td><td>283.80 ns</td><td>800.46 ns</td><td>4,350.0 ns</td><td>616 B</td>
+</tr><tr><td>HapusTugasDariStatus</td><td>1,394.3 ns</td><td>77.92 ns</td><td>214.61 ns</td><td>1,300.0 ns</td><td>400 B</td>
+</tr><tr><td>GetTugasDariStatus</td><td>1,746.9 ns</td><td>165.12 ns</td><td>481.66 ns</td><td>1,700.0 ns</td><td>464 B</td>
+</tr><tr><td>GetStatusDariTugas</td><td>5,505.4 ns</td><td>374.75 ns</td><td>1,056.99 ns</td><td>5,100.0 ns</td><td>760 B</td>
+</tr><tr><td>SimpanJadwal</td><td>2,738.9 ns</td><td>229.07 ns</td><td>657.25 ns</td><td>2,400.0 ns</td><td>568 B</td>
+</tr><tr><td>GetTugasKaryawan</td><td>3,680.0 ns</td><td>353.60 ns</td><td>1,014.53 ns</td><td>3,300.0 ns</td><td>664 B</td>
+</tr><tr><td>SelesaikanTugas</td><td>3,501.0 ns</td><td>278.13 ns</td><td>811.32 ns</td><td>3,150.0 ns</td><td>792 B</td>
+</tr><tr><td>CekTugasTersimpanTaskNotFound</td><td>529.0 ns</td><td>48.76 ns</td><td>143.76 ns</td><td>500.0 ns</td><td>400 B</td>
+</tr></tbody></table>
+</body>
+</html>

@@ -1,0 +1,14 @@
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\Tubes_Kelompok_BisaYukk_Final\Tubes_Kelompok_BisaYukk_Final\bin\Release\net8.0\Tubes_Kelompok_BisaYukk_Final.exe
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\Tubes_Kelompok_BisaYukk_Final\Tubes_Kelompok_BisaYukk_Final\bin\Release\net8.0\Tubes_Kelompok_BisaYukk_Final.deps.json
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\Tubes_Kelompok_BisaYukk_Final\Tubes_Kelompok_BisaYukk_Final\bin\Release\net8.0\Tubes_Kelompok_BisaYukk_Final.runtimeconfig.json
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\Tubes_Kelompok_BisaYukk_Final\Tubes_Kelompok_BisaYukk_Final\bin\Release\net8.0\Tubes_Kelompok_BisaYukk_Final.dll
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\Tubes_Kelompok_BisaYukk_Final\Tubes_Kelompok_BisaYukk_Final\bin\Release\net8.0\Tubes_Kelompok_BisaYukk_Final.pdb
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\Tubes_Kelompok_BisaYukk_Final\Tubes_Kelompok_BisaYukk_Final\obj\Release\net8.0\Tubes_Kelompok_BisaYukk_Final.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\Tubes_Kelompok_BisaYukk_Final\Tubes_Kelompok_BisaYukk_Final\obj\Release\net8.0\Tubes_Kelompok_BisaYukk_Final.AssemblyInfoInputs.cache
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\Tubes_Kelompok_BisaYukk_Final\Tubes_Kelompok_BisaYukk_Final\obj\Release\net8.0\Tubes_Kelompok_BisaYukk_Final.AssemblyInfo.cs
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\Tubes_Kelompok_BisaYukk_Final\Tubes_Kelompok_BisaYukk_Final\obj\Release\net8.0\Tubes_Kelompok_BisaYukk_Final.csproj.CoreCompileInputs.cache
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\Tubes_Kelompok_BisaYukk_Final\Tubes_Kelompok_BisaYukk_Final\obj\Release\net8.0\Tubes_Kelompok_BisaYukk_Final.dll
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\Tubes_Kelompok_BisaYukk_Final\Tubes_Kelompok_BisaYukk_Final\obj\Release\net8.0\refint\Tubes_Kelompok_BisaYukk_Final.dll
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\Tubes_Kelompok_BisaYukk_Final\Tubes_Kelompok_BisaYukk_Final\obj\Release\net8.0\Tubes_Kelompok_BisaYukk_Final.pdb
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\Tubes_Kelompok_BisaYukk_Final\Tubes_Kelompok_BisaYukk_Final\obj\Release\net8.0\Tubes_Kelompok_BisaYukk_Final.genruntimeconfig.cache
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\Tubes_Kelompok_BisaYukk_Final\Tubes_Kelompok_BisaYukk_Final\obj\Release\net8.0\ref\Tubes_Kelompok_BisaYukk_Final.dll
