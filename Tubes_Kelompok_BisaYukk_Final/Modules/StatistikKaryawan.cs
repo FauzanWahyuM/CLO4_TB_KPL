@@ -33,7 +33,8 @@ namespace Tubes_Kelompok_BisaYukk.Modules
                     }
                 }
 
-                Console.WriteLine($"Karyawan: {nama}");
+                string displayName = UserSession.GetKaryawanAktif();
+                Console.WriteLine($"Karyawan: {displayName}");
                 Console.WriteLine($"- Total Tugas       : {total}");
                 Console.WriteLine($"- Tugas Selesai     : {selesai}");
                 Console.WriteLine($"- Masih Dalam Proses: {dalamProses}\n");

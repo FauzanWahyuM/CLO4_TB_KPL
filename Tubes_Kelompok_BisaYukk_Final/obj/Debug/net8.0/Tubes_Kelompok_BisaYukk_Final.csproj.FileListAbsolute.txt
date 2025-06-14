@@ -13,3 +13,7 @@ D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Prakti
 D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\Tubes_Kelompok_BisaYukk_Final\Tubes_Kelompok_BisaYukk_Final\obj\Debug\net8.0\Tubes_Kelompok_BisaYukk_Final.genruntimeconfig.cache
 D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\Tubes_Kelompok_BisaYukk_Final\Tubes_Kelompok_BisaYukk_Final\obj\Debug\net8.0\ref\Tubes_Kelompok_BisaYukk_Final.dll
 D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\Tubes_Kelompok_BisaYukk_Final\Tubes_Kelompok_BisaYukk_Final\obj\Debug\net8.0\Tubes_Kelompok_BisaYukk_Final.sourcelink.json
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\Tubes_Kelompok_BisaYukk_Final\Tubes_Kelompok_BisaYukk_Final\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\Tubes_Kelompok_BisaYukk_Final\Tubes_Kelompok_BisaYukk_Final\obj\Debug\net8.0\Tubes_Kelompok_BisaYukk_Final.csproj.AssemblyReference.cache
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\Tubes_Kelompok_BisaYukk_Final\Tubes_Kelompok_BisaYukk_Final\obj\Debug\net8.0\Tubes_Ke.33355BC5.Up2Date
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\Tubes_Kelompok_BisaYukk_Final\Tubes_Kelompok_BisaYukk_Final\bin\Debug\net8.0\Modules\admin_pass.txt

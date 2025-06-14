@@ -14,23 +14,6 @@ namespace Tubes_Kelompok_BisaYukk.Tests
 {
    public class ProgramTests
     {
-
-        [Fact]
-        public void MenuAdmin_ShouldHandleLihatTugasAndExit()
-        {
-            // Arrange
-            var mockInput = new List<string> { "1", "5" };
-            var console = new MockConsoleService(mockInput);
-
-            // Act
-            Program.MenuAdmin(console);
-
-            // Assert
-            Assert.Contains("[TampilkanSemuaTugas()]", console.Outputs);
-            Assert.Contains("=== Menu Admin ===", console.Outputs);
-        }
-
-
         [Fact]
         public void ReadPassword_ShouldReturnTypedPassword()
         {

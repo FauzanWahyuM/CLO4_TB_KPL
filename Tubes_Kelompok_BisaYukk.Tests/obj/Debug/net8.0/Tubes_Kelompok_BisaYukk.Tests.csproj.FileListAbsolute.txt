@@ -103,3 +103,6 @@ D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Prakti
 D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\Tubes_Kelompok_BisaYukk_Final\Tubes_Kelompok_BisaYukk.Tests\obj\Debug\net8.0\Tubes_Kelompok_BisaYukk.Tests.pdb
 D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\Tubes_Kelompok_BisaYukk_Final\Tubes_Kelompok_BisaYukk.Tests\obj\Debug\net8.0\Tubes_Kelompok_BisaYukk.Tests.genruntimeconfig.cache
 D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\Tubes_Kelompok_BisaYukk_Final\Tubes_Kelompok_BisaYukk.Tests\obj\Debug\net8.0\ref\Tubes_Kelompok_BisaYukk.Tests.dll
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\Tubes_Kelompok_BisaYukk_Final\Tubes_Kelompok_BisaYukk.Tests\obj\Debug\net8.0\Tubes_Kelompok_BisaYukk.Tests.sourcelink.json
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\Tubes_Kelompok_BisaYukk_Final\Tubes_Kelompok_BisaYukk.Tests\bin\Debug\net8.0\Modules\admin_pass.txt
+D:\ITTP\Semester 6\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\VS Praktikum\Tubes_Kelompok_BisaYukk_Final\Tubes_Kelompok_BisaYukk.Tests\bin\Debug\net8.0\BCrypt.Net-Next.dll

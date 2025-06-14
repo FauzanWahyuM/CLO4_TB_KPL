@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9E5A33BF-A74D-4FC2-B45D-3DC93AF6D8C0}|Tubes_Kelompok_BisaYukk.Tests\\Tubes_Kelompok_BisaYukk.Tests.csproj|d:\\ittp\\semester 6\\praktikum konstruksi perangkat lunak se-06-01 [yis]\\vs praktikum\\tubes_kelompok_bisayukk_final\\tubes_kelompok_bisayukk.tests\\programtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E5A33BF-A74D-4FC2-B45D-3DC93AF6D8C0}|Tubes_Kelompok_BisaYukk.Tests\\Tubes_Kelompok_BisaYukk.Tests.csproj|solutionrelative:tubes_kelompok_bisayukk.tests\\programtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|d:\\ittp\\semester 6\\praktikum konstruksi perangkat lunak se-06-01 [yis]\\vs praktikum\\tubes_kelompok_bisayukk_final\\tubes_kelompok_bisayukk_final\\modules\\prioritastugas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|solutionrelative:tubes_kelompok_bisayukk_final\\modules\\prioritastugas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|d:\\ittp\\semester 6\\praktikum konstruksi perangkat lunak se-06-01 [yis]\\vs praktikum\\tubes_kelompok_bisayukk_final\\tubes_kelompok_bisayukk_final\\modules\\loginstrategies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|solutionrelative:tubes_kelompok_bisayukk_final\\modules\\loginstrategies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|d:\\ittp\\semester 6\\praktikum konstruksi perangkat lunak se-06-01 [yis]\\vs praktikum\\tubes_kelompok_bisayukk_final\\tubes_kelompok_bisayukk_final\\modules\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|solutionrelative:tubes_kelompok_bisayukk_final\\modules\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|d:\\ittp\\semester 6\\praktikum konstruksi perangkat lunak se-06-01 [yis]\\vs praktikum\\tubes_kelompok_bisayukk_final\\tubes_kelompok_bisayukk_final\\tubes_kelompok_bisayukk_final.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|solutionrelative:tubes_kelompok_bisayukk_final\\tubes_kelompok_bisayukk_final.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|d:\\ittp\\semester 6\\praktikum konstruksi perangkat lunak se-06-01 [yis]\\vs praktikum\\tubes_kelompok_bisayukk_final\\tubes_kelompok_bisayukk_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|solutionrelative:tubes_kelompok_bisayukk_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E5A33BF-A74D-4FC2-B45D-3DC93AF6D8C0}|Tubes_Kelompok_BisaYukk.Tests\\Tubes_Kelompok_BisaYukk.Tests.csproj|d:\\ittp\\semester 6\\praktikum konstruksi perangkat lunak se-06-01 [yis]\\vs praktikum\\tubes_kelompok_bisayukk_final\\tubes_kelompok_bisayukk.tests\\programtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E5A33BF-A74D-4FC2-B45D-3DC93AF6D8C0}|Tubes_Kelompok_BisaYukk.Tests\\Tubes_Kelompok_BisaYukk.Tests.csproj|solutionrelative:tubes_kelompok_bisayukk.tests\\programtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|d:\\ittp\\semester 6\\praktikum konstruksi perangkat lunak se-06-01 [yis]\\vs praktikum\\tubes_kelompok_bisayukk_final\\tubes_kelompok_bisayukk_final\\modules\\statistikkaryawan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|solutionrelative:tubes_kelompok_bisayukk_final\\modules\\statistikkaryawan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|d:\\ittp\\semester 6\\praktikum konstruksi perangkat lunak se-06-01 [yis]\\vs praktikum\\tubes_kelompok_bisayukk_final\\tubes_kelompok_bisayukk_final\\modules\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|solutionrelative:tubes_kelompok_bisayukk_final\\modules\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|d:\\ittp\\semester 6\\praktikum konstruksi perangkat lunak se-06-01 [yis]\\vs praktikum\\tubes_kelompok_bisayukk_final\\tubes_kelompok_bisayukk_final\\modules\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|solutionrelative:tubes_kelompok_bisayukk_final\\modules\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|d:\\ittp\\semester 6\\praktikum konstruksi perangkat lunak se-06-01 [yis]\\vs praktikum\\tubes_kelompok_bisayukk_final\\tubes_kelompok_bisayukk_final\\modules\\admin_pass.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|solutionrelative:tubes_kelompok_bisayukk_final\\modules\\admin_pass.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|d:\\ittp\\semester 6\\praktikum konstruksi perangkat lunak se-06-01 [yis]\\vs praktikum\\tubes_kelompok_bisayukk_final\\tubes_kelompok_bisayukk_final\\modules\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|solutionrelative:tubes_kelompok_bisayukk_final\\modules\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E5A33BF-A74D-4FC2-B45D-3DC93AF6D8C0}|Tubes_Kelompok_BisaYukk.Tests\\Tubes_Kelompok_BisaYukk.Tests.csproj|d:\\ittp\\semester 6\\praktikum konstruksi perangkat lunak se-06-01 [yis]\\vs praktikum\\tubes_kelompok_bisayukk_final\\tubes_kelompok_bisayukk.tests\\automatapemesanantests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,14 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|d:\\ittp\\semester 6\\praktikum konstruksi perangkat lunak se-06-01 [yis]\\vs praktikum\\tubes_kelompok_bisayukk_final\\tubes_kelompok_bisayukk_final\\modules\\consoleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|solutionrelative:tubes_kelompok_bisayukk_final\\modules\\consoleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|d:\\ittp\\semester 6\\praktikum konstruksi perangkat lunak se-06-01 [yis]\\vs praktikum\\tubes_kelompok_bisayukk_final\\tubes_kelompok_bisayukk_final\\modules\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|solutionrelative:tubes_kelompok_bisayukk_final\\modules\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|d:\\ittp\\semester 6\\praktikum konstruksi perangkat lunak se-06-01 [yis]\\vs praktikum\\tubes_kelompok_bisayukk_final\\tubes_kelompok_bisayukk_final\\modules\\loginstrategies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|solutionrelative:tubes_kelompok_bisayukk_final\\modules\\loginstrategies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E5A33BF-A74D-4FC2-B45D-3DC93AF6D8C0}|Tubes_Kelompok_BisaYukk.Tests\\Tubes_Kelompok_BisaYukk.Tests.csproj|d:\\ittp\\semester 6\\praktikum konstruksi perangkat lunak se-06-01 [yis]\\vs praktikum\\tubes_kelompok_bisayukk_final\\tubes_kelompok_bisayukk.tests\\prioritastugas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,14 +75,6 @@
       "RelativeMoniker": "D:0:0:{9E5A33BF-A74D-4FC2-B45D-3DC93AF6D8C0}|Tubes_Kelompok_BisaYukk.Tests\\Tubes_Kelompok_BisaYukk.Tests.csproj|solutionrelative:tubes_kelompok_bisayukk.tests\\tubes_kelompok_bisayukk.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|d:\\ittp\\semester 6\\praktikum konstruksi perangkat lunak se-06-01 [yis]\\vs praktikum\\tubes_kelompok_bisayukk_final\\tubes_kelompok_bisayukk_final\\tubes_kelompok_bisayukk_final.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|solutionrelative:tubes_kelompok_bisayukk_final\\tubes_kelompok_bisayukk_final.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|d:\\ittp\\semester 6\\praktikum konstruksi perangkat lunak se-06-01 [yis]\\vs praktikum\\tubes_kelompok_bisayukk_final\\tubes_kelompok_bisayukk_final\\modules\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|solutionrelative:tubes_kelompok_bisayukk_final\\modules\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9E5A33BF-A74D-4FC2-B45D-3DC93AF6D8C0}|Tubes_Kelompok_BisaYukk.Tests\\Tubes_Kelompok_BisaYukk.Tests.csproj|d:\\ittp\\semester 6\\praktikum konstruksi perangkat lunak se-06-01 [yis]\\vs praktikum\\tubes_kelompok_bisayukk_final\\tubes_kelompok_bisayukk.tests\\tabledrivenbatas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E5A33BF-A74D-4FC2-B45D-3DC93AF6D8C0}|Tubes_Kelompok_BisaYukk.Tests\\Tubes_Kelompok_BisaYukk.Tests.csproj|solutionrelative:tubes_kelompok_bisayukk.tests\\tabledrivenbatas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -65,14 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|d:\\ittp\\semester 6\\praktikum konstruksi perangkat lunak se-06-01 [yis]\\vs praktikum\\tubes_kelompok_bisayukk_final\\tubes_kelompok_bisayukk_final\\modules\\automatapemesanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|solutionrelative:tubes_kelompok_bisayukk_final\\modules\\automatapemesanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|d:\\ittp\\semester 6\\praktikum konstruksi perangkat lunak se-06-01 [yis]\\vs praktikum\\tubes_kelompok_bisayukk_final\\tubes_kelompok_bisayukk_final\\modules\\statistikkaryawan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|solutionrelative:tubes_kelompok_bisayukk_final\\modules\\statistikkaryawan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|d:\\ittp\\semester 6\\praktikum konstruksi perangkat lunak se-06-01 [yis]\\vs praktikum\\tubes_kelompok_bisayukk_final\\tubes_kelompok_bisayukk_final\\modules\\prioritastugas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9855E1E7-8DDF-4DE4-9A56-CE5467494BAB}|Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj|solutionrelative:tubes_kelompok_bisayukk_final\\modules\\prioritastugas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,141 +106,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProgramTests.cs",
-              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk.Tests\\ProgramTests.cs",
-              "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk.Tests\\ProgramTests.cs",
-              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk.Tests\\ProgramTests.cs",
-              "RelativeToolTip": "Tubes_Kelompok_BisaYukk.Tests\\ProgramTests.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "LoginStrategies.cs",
+              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Modules\\LoginStrategies.cs",
+              "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk_Final\\Modules\\LoginStrategies.cs",
+              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Modules\\LoginStrategies.cs",
+              "RelativeToolTip": "Tubes_Kelompok_BisaYukk_Final\\Modules\\LoginStrategies.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwCsAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T10:54:42.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T10:30:08.206Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Program.cs",
-              "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk_Final\\Program.cs",
-              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Program.cs",
-              "RelativeToolTip": "Tubes_Kelompok_BisaYukk_Final\\Program.cs",
-              "ViewState": "AgIAALMAAAAAAAAAAAAswMcAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T02:46:51.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "UserSession.cs",
               "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Modules\\UserSession.cs",
               "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk_Final\\Modules\\UserSession.cs",
               "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Modules\\UserSession.cs",
               "RelativeToolTip": "Tubes_Kelompok_BisaYukk_Final\\Modules\\UserSession.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBAAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T08:59:25.578Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ConsoleService.cs",
-              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Modules\\ConsoleService.cs",
-              "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk_Final\\Modules\\ConsoleService.cs",
-              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Modules\\ConsoleService.cs",
-              "RelativeToolTip": "Tubes_Kelompok_BisaYukk_Final\\Modules\\ConsoleService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T11:13:16.169Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MockConsoleService.cs",
-              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk.Tests\\MockConsoleService.cs",
-              "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk.Tests\\MockConsoleService.cs",
-              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk.Tests\\MockConsoleService.cs",
-              "RelativeToolTip": "Tubes_Kelompok_BisaYukk.Tests\\MockConsoleService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA0wCAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T11:14:32.066Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AutomataPemesananTests.cs",
-              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk.Tests\\AutomataPemesananTests.cs",
-              "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk.Tests\\AutomataPemesananTests.cs",
-              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk.Tests\\AutomataPemesananTests.cs",
-              "RelativeToolTip": "Tubes_Kelompok_BisaYukk.Tests\\AutomataPemesananTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T02:51:54.352Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginStrategies.cs",
-              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Modules\\LoginStrategies.cs",
-              "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk_Final\\Modules\\LoginStrategies.cs",
-              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Modules\\LoginStrategies.cs",
-              "RelativeToolTip": "Tubes_Kelompok_BisaYukk_Final\\Modules\\LoginStrategies.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAA+wCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T10:30:08.206Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AdminLoginStrategyTests.cs",
-              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk.Tests\\AdminLoginStrategyTests.cs",
-              "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk.Tests\\AdminLoginStrategyTests.cs",
-              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk.Tests\\AdminLoginStrategyTests.cs",
-              "RelativeToolTip": "Tubes_Kelompok_BisaYukk.Tests\\AdminLoginStrategyTests.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAA3wBEAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T11:21:20.377Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IConsoleService.cs",
-              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Interfaces\\IConsoleService.cs",
-              "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk_Final\\Interfaces\\IConsoleService.cs",
-              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Interfaces\\IConsoleService.cs",
-              "RelativeToolTip": "Tubes_Kelompok_BisaYukk_Final\\Interfaces\\IConsoleService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T11:11:06.208Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PrioritasTugas.cs",
-              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk.Tests\\PrioritasTugas.cs",
-              "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk.Tests\\PrioritasTugas.cs",
-              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk.Tests\\PrioritasTugas.cs",
-              "RelativeToolTip": "Tubes_Kelompok_BisaYukk.Tests\\PrioritasTugas.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwAYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T03:00:47.208Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Tubes_Kelompok_BisaYukk.Tests.csproj",
-              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk.Tests\\Tubes_Kelompok_BisaYukk.Tests.csproj",
-              "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk.Tests\\Tubes_Kelompok_BisaYukk.Tests.csproj",
-              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk.Tests\\Tubes_Kelompok_BisaYukk.Tests.csproj",
-              "RelativeToolTip": "Tubes_Kelompok_BisaYukk.Tests\\Tubes_Kelompok_BisaYukk.Tests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-01T02:53:39.875Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "Tubes_Kelompok_BisaYukk_Final.csproj",
               "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj",
               "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj",
@@ -240,19 +142,188 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProgramTests.cs",
+              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk.Tests\\ProgramTests.cs",
+              "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk.Tests\\ProgramTests.cs",
+              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk.Tests\\ProgramTests.cs",
+              "RelativeToolTip": "Tubes_Kelompok_BisaYukk.Tests\\ProgramTests.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T10:54:42.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "admin_pass.txt",
+              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Modules\\admin_pass.txt",
+              "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk_Final\\Modules\\admin_pass.txt",
+              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Modules\\admin_pass.txt",
+              "RelativeToolTip": "Tubes_Kelompok_BisaYukk_Final\\Modules\\admin_pass.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-14T03:05:07.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrioritasTugas.cs",
+              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Modules\\PrioritasTugas.cs",
+              "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk_Final\\Modules\\PrioritasTugas.cs",
+              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Modules\\PrioritasTugas.cs",
+              "RelativeToolTip": "Tubes_Kelompok_BisaYukk_Final\\Modules\\PrioritasTugas.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T03:04:49.586Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "MockConsoleService.cs",
+              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk.Tests\\MockConsoleService.cs",
+              "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk.Tests\\MockConsoleService.cs",
+              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk.Tests\\MockConsoleService.cs",
+              "RelativeToolTip": "Tubes_Kelompok_BisaYukk.Tests\\MockConsoleService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA0wCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T11:14:32.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Program.cs",
+              "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk_Final\\Program.cs",
+              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Program.cs",
+              "RelativeToolTip": "Tubes_Kelompok_BisaYukk_Final\\Program.cs",
+              "ViewState": "AgIAAJsBAAAAAAAAAAAwwKYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T02:46:51.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StatistikKaryawan.cs",
+              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Modules\\StatistikKaryawan.cs",
+              "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk_Final\\Modules\\StatistikKaryawan.cs",
+              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Modules\\StatistikKaryawan.cs",
+              "RelativeToolTip": "Tubes_Kelompok_BisaYukk_Final\\Modules\\StatistikKaryawan.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:59:41.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Security.cs",
+              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Modules\\Security.cs",
+              "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk_Final\\Modules\\Security.cs",
+              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Modules\\Security.cs",
+              "RelativeToolTip": "Tubes_Kelompok_BisaYukk_Final\\Modules\\Security.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAzwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T02:50:10.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "data.json",
+              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Modules\\data.json",
+              "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk_Final\\Modules\\data.json",
+              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Modules\\data.json",
+              "RelativeToolTip": "Tubes_Kelompok_BisaYukk_Final\\Modules\\data.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-14T03:13:26.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConsoleService.cs",
+              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Modules\\ConsoleService.cs",
+              "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk_Final\\Modules\\ConsoleService.cs",
+              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Modules\\ConsoleService.cs",
+              "RelativeToolTip": "Tubes_Kelompok_BisaYukk_Final\\Modules\\ConsoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T11:13:16.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AutomataPemesananTests.cs",
+              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk.Tests\\AutomataPemesananTests.cs",
+              "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk.Tests\\AutomataPemesananTests.cs",
+              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk.Tests\\AutomataPemesananTests.cs",
+              "RelativeToolTip": "Tubes_Kelompok_BisaYukk.Tests\\AutomataPemesananTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T02:51:54.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "FileHandler.cs",
               "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Modules\\FileHandler.cs",
               "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk_Final\\Modules\\FileHandler.cs",
               "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Modules\\FileHandler.cs",
               "RelativeToolTip": "Tubes_Kelompok_BisaYukk_Final\\Modules\\FileHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T10:29:15.096Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
+              "Title": "AdminLoginStrategyTests.cs",
+              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk.Tests\\AdminLoginStrategyTests.cs",
+              "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk.Tests\\AdminLoginStrategyTests.cs",
+              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk.Tests\\AdminLoginStrategyTests.cs",
+              "RelativeToolTip": "Tubes_Kelompok_BisaYukk.Tests\\AdminLoginStrategyTests.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA3wBEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T11:21:20.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IConsoleService.cs",
+              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Interfaces\\IConsoleService.cs",
+              "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk_Final\\Interfaces\\IConsoleService.cs",
+              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Interfaces\\IConsoleService.cs",
+              "RelativeToolTip": "Tubes_Kelompok_BisaYukk_Final\\Interfaces\\IConsoleService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T11:11:06.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PrioritasTugas.cs",
+              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk.Tests\\PrioritasTugas.cs",
+              "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk.Tests\\PrioritasTugas.cs",
+              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk.Tests\\PrioritasTugas.cs",
+              "RelativeToolTip": "Tubes_Kelompok_BisaYukk.Tests\\PrioritasTugas.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T03:00:47.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Tubes_Kelompok_BisaYukk.Tests.csproj",
+              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk.Tests\\Tubes_Kelompok_BisaYukk.Tests.csproj",
+              "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk.Tests\\Tubes_Kelompok_BisaYukk.Tests.csproj",
+              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk.Tests\\Tubes_Kelompok_BisaYukk.Tests.csproj",
+              "RelativeToolTip": "Tubes_Kelompok_BisaYukk.Tests\\Tubes_Kelompok_BisaYukk.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T02:53:39.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "TableDrivenBatas.cs",
               "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk.Tests\\TableDrivenBatas.cs",
               "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk.Tests\\TableDrivenBatas.cs",
@@ -264,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "BenchmarkTests.cs",
               "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Benchmark\\BenchmarkTests.cs",
               "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk_Benchmark\\BenchmarkTests.cs",
@@ -276,19 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "StatistikKaryawan.cs",
-              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Modules\\StatistikKaryawan.cs",
-              "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk_Final\\Modules\\StatistikKaryawan.cs",
-              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Modules\\StatistikKaryawan.cs",
-              "RelativeToolTip": "Tubes_Kelompok_BisaYukk_Final\\Modules\\StatistikKaryawan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T08:59:41.524Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "AutomataPemesanan.cs",
               "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Modules\\AutomataPemesanan.cs",
               "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk_Final\\Modules\\AutomataPemesanan.cs",
@@ -297,18 +356,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T09:04:36.973Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "PrioritasTugas.cs",
-              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Modules\\PrioritasTugas.cs",
-              "RelativeDocumentMoniker": "Tubes_Kelompok_BisaYukk_Final\\Modules\\PrioritasTugas.cs",
-              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Modules\\PrioritasTugas.cs",
-              "RelativeToolTip": "Tubes_Kelompok_BisaYukk_Final\\Modules\\PrioritasTugas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T03:04:49.586Z"
             }
           ]
         }

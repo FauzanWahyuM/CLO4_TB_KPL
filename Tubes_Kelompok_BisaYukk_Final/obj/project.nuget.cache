@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "VTV/JCsgZZg=",
+  "dgSpecHash": "nEXolpVQNMw=",
   "success": true,
   "projectFilePath": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final\\Tubes_Kelompok_BisaYukk_Final.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
